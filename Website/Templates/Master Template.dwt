@@ -15,7 +15,7 @@
 <body>
 <table>
   <tr>
-    <td colspan="2">[Primary Navigation]</td>
+    <td colspan="2"><a href="../home.html">[Home]</a> <a href="../about doctor who.html">[About Doctor Who]</a> <a href="../abouit this site.html">[About This Site]</a> <a href="../the-doctors/the-doctors.html">[The Doctors]</a> <a href="../companions/index.html">[The Companions]</a> <a href="../villains/index.html">[The Villains]</a></td>
   </tr>
   <tr>
     <td colspan="2">[Banner]</td>

@@ -15,7 +15,7 @@
 <body>
 <table>
   <tr>
-    <td colspan="2"><a href="../home.html">[Home]</a> <a href="../about doctor who.html">[About Doctor Who]</a> <a href="../abouit this site.html">[About This Site]</a> <a href="../the-doctors/the-doctors.html">[The Doctors]</a> <a href="../companions/index.html">[The Companions]</a> <a href="../villains/index.html">[The Villains]</a></td>
+    <td colspan="2"><a href="../home.html">[Home]</a> <a href="../about doctor who.html">[About Doctor Who]</a> <a href="../abouit this site.html">[About This Site]</a> <a href="../the-doctors/the-doctors.html">[The Doctors]</a> <a href="../the-companions/index.html">[The Companions]</a> <a href="../the-villains/index.html">[The Villains]</a></td>
   </tr>
   <tr>
     <td colspan="2">[Banner]</td>
@@ -64,50 +64,50 @@
       <table>
         <!-- TemplateBeginIf cond="_document['The Companions Secondary Menu']" -->
         <tr>
-          <td width="92"><a href="../companions/rose-tyler.html">Rose Tyler</a></td>
+          <td width="92"><a href="../the-companions/rose-tyler.html">Rose Tyler</a></td>
         </tr>
         <tr>
-          <td><a href="../companions/martha-jones.html">Martha Jones</a></td>
+          <td><a href="../the-companions/martha-jones.html">Martha Jones</a></td>
         </tr>
         <tr>
-          <td><a href="../companions/jack-harkness.html">Jack Harkness</a></td>
+          <td><a href="../the-companions/jack-harkness.html">Jack Harkness</a></td>
         </tr>
         <tr>
-          <td><a href="../companions/lady christina de souza.html">Lady Christina de Souza</a></td>
+          <td><a href="../the-companions/lady christina de souza.html">Lady Christina de Souza</a></td>
         </tr>
         <tr>
-          <td><a href="../companions/rory-williams.html">Rory Williams</a></td>
+          <td><a href="../the-companions/rory-williams.html">Rory Williams</a></td>
         </tr>
         <tr>
-          <td><a href="../companions/amy-pond.html">Amy Pond</a></td>
+          <td><a href="../the-companions/amy-pond.html">Amy Pond</a></td>
         </tr>
         <tr>
-          <td height="21"><a href="../companions/clara-oswald.html">Clara Oswald</a></td>
+          <td height="21"><a href="../the-companions/clara-oswald.html">Clara Oswald</a></td>
         </tr>
         <tr>
-          <td height="21"><a href="../companions/river-song.html">River Song</a></td>
+          <td height="21"><a href="../the-companions/river-song.html">River Song</a></td>
         </tr>
         <!-- TemplateEndIf -->
       </table>
       <!-- TemplateBeginIf cond="_document['The Villains Secondary Menu']" -->
       <table width="114">
         <tr>
-          <td><a href="../villains/daleks.html">Daleks</a></td>
+          <td><a href="../the-villains/daleks.html">Daleks</a></td>
         </tr>
         <tr>
-          <td><a href="../villains/cyberman.html">Cybermen</a></td>
+          <td><a href="../the-villains/cyberman.html">Cybermen</a></td>
         </tr>
         <tr>
-          <td><a href="../villains/the-master.html">The Master</a></td>
+          <td><a href="../the-villains/the-master.html">The Master</a></td>
         </tr>
         <tr>
-          <td><a href="../villains/lady cassandra.html">Lady Cassandra</a></td>
+          <td><a href="../the-villains/lady cassandra.html">Lady Cassandra</a></td>
         </tr>
         <tr>
-          <td><a href="../villains/davros.html">Davros</a></td>
+          <td><a href="../the-villains/davros.html">Davros</a></td>
         </tr>
         <tr>
-          <td><a href="../villains/weeping angels.html">Weeping Angels</a></td>
+          <td><a href="../the-villains/weeping angels.html">Weeping Angels</a></td>
         </tr>
       </table>
       <!-- TemplateEndIf --></td>

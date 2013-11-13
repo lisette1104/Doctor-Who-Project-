@@ -1,0 +1,151 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="The Doctors Secondary Nav" type="boolean" value="true" -->
+<!-- TemplateParam name="The Companions Secondary Nav" type="boolean" value="false" -->
+<!-- TemplateParam name="The Villains Secondary Nav" type="boolean" value="false" -->
+</head>
+
+<body>
+	<table>
+		<tr>
+			<td colspan="2">
+				<p><a href="../index.html">Home</a> <a href="../The-Doctors/index.html">The Doctors</a> <a href="../The-Companions/index.html">The Companions </a><a href="../The-Villains/index.html">The Villains </a></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">[Banner Goes Here]</td>
+		</tr>
+		<tr>
+			<td><!-- TemplateBeginIf cond="_document['The Doctors Secondary Nav']" -->
+				<table>
+					<tr>
+						<td><a href="../The-Doctors/the-first doctor.html">The First Doctor</a></td>
+					</tr>
+					<tr>
+						<td><a href="../The-Doctors/the-second doctor.html">The Second Doctor</a></td>
+					</tr>
+					<tr>
+						<td>
+							<p><a href="../The-Doctors/the-third doctor.html">The Third Doctor </a></p>
+						</td>
+					</tr>
+					<tr>
+						<td><a href="../The-Doctors/the-fourth doctor.html">The Fouirth Doctor</a></td>
+					</tr>
+					<tr>
+						<td><a href="../The-Doctors/the-fifth doctor.html">The Fifth Doctor</a></td>
+					</tr>
+					<tr>
+						<td><a href="../The-Doctors/the-sixth doctor.html">The Sixth Doctor </a></td>
+					</tr>
+					<tr>
+						<td><a href="../The-Doctors/the-seventh doctor.html">The Seventh Doctor </a></td>
+					</tr>
+					<tr>
+						<td><a href="../The-Doctors/the- eighth doctor.html">The Eighth Doctor</a></td>
+					</tr>
+					<tr>
+						<td><a href="../The-Doctors/the-ninth doctor.html">The Ninth Doctor</a></td>
+					</tr>
+					<tr>
+						<td><a href="../The-Doctors/the-tenth doctor.html">The Tenth Doctor</a></td>
+					</tr>
+					<tr>
+						<td><a href="../The-Doctors/the-eleventh doctor.html">The Eleventh Doctor</a></td>
+					</tr>
+					<tr>
+						<td><a href="../The-Doctors/the-twelfth doctor.html">The Twelfth Doctor</a></td>
+					</tr>
+				</table>
+			<!-- TemplateEndIf -->
+				<table>
+					<tr>
+						<td><!-- TemplateBeginIf cond="_document['The Companions Secondary Nav']" -->
+							<table>
+								<tbody>
+									<tr>
+										<td><a href="../The-Companions/rose-tyler.html">Rose Tyler</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Companions/martha-jones.html">Martha Jones</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Companions/jack-harkness.html">Jack Harkness</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Companions/lady christina-de souza.html">Lady Christina de Souza</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Companions/amy-pond.html">Amy Pond</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Companions/rory-williams.html">Rory Williams</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Companions/river-song.html">River Song</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Companions/clara-oswald.html">Clara Oswald</a></td>
+									</tr>
+								</tbody>
+							</table>
+						<!-- TemplateEndIf --></td>
+					</tr>
+					<tr>
+						<td><!-- TemplateBeginIf cond="_document['The Villains Secondary Nav']" -->
+							<table>
+								<tbody>
+									<tr>
+										<td><a href="../The-Villains/daleks.html">Daleks</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Villains/cyberman.html">Cybermen</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Villains/the-master.html">The Master</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Villains/lady-cassandra.html">Lady Cassandra</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Villains/davros.html">Davros</a></td>
+									</tr>
+									<tr>
+										<td><a href="../The-Villains/weeping-angels.html">Weeping Angels</a></td>
+									</tr>
+								</tbody>
+							</table>
+						<!-- TemplateEndIf --></td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+					</tr>
+				</table>
+			</td>
+			<td><!-- TemplateBeginEditable name="Content" -->[General Content Goes Here]<!-- TemplateEndEditable --></td>
+		</tr>
+	</table>
+</body>
+</html>

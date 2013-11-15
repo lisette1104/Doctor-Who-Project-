@@ -10,6 +10,7 @@
 <!-- TemplateParam name="The Doctors Secondary Nav" type="boolean" value="true" -->
 <!-- TemplateParam name="The Companions Secondary Nav" type="boolean" value="false" -->
 <!-- TemplateParam name="The Villains Secondary Nav" type="boolean" value="false" -->
+<link href="../styles.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -20,7 +21,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2">[Banner Goes Here]</td>
+			<td colspan="2"><!-- TemplateBeginEditable name="Banner" -->[Banner Goes Here]<!-- TemplateEndEditable --></td>
 		</tr>
 		<tr>
 			<td><!-- TemplateBeginIf cond="_document['The Doctors Secondary Nav']" -->
@@ -144,7 +145,21 @@
 					</tr>
 				</table>
 			</td>
-			<td><!-- TemplateBeginEditable name="Content" -->[General Content Goes Here]<!-- TemplateEndEditable --></td>
+			
+			<td>
+			
+			<div class="doctor-who-content">
+			
+			<!-- TemplateBeginEditable name="Content" -->
+			[General Content Goes Here]
+			<!-- TemplateEndEditable -->
+			
+			</div>
+			
+			
+		</td>
+		
+		
 		</tr>
 	</table>
 </body>

@@ -14,7 +14,8 @@
 </head>
 
 <body>
-	<table>
+<div class="center wrapper">
+	<table width="950">
 		<tr>
 			<td colspan="2">
 				<p><a href="../index.html">Home</a> <a href="../The-Doctors/index.html">The Doctors</a> <a href="../The-Companions/index.html">The Companions </a><a href="../The-Villains/index.html">The Villains </a></p>
@@ -64,8 +65,8 @@
 					<tr>
 						<td><a href="../The-Doctors/the-twelfth doctor.html">The Twelfth Doctor</a></td>
 					</tr>
-				</table>
-			<!-- TemplateEndIf -->
+					</table>
+				<!-- TemplateEndIf -->
 				<table>
 					<tr>
 						<td><!-- TemplateBeginIf cond="_document['The Companions Secondary Nav']" -->
@@ -96,7 +97,7 @@
 										<td><a href="../The-Companions/clara-oswald.html">Clara Oswald</a></td>
 									</tr>
 								</tbody>
-							</table>
+								</table>
 						<!-- TemplateEndIf --></td>
 					</tr>
 					<tr>
@@ -122,7 +123,7 @@
 										<td><a href="../The-Villains/weeping-angels.html">Weeping Angels</a></td>
 									</tr>
 								</tbody>
-							</table>
+								</table>
 						<!-- TemplateEndIf --></td>
 					</tr>
 					<tr>
@@ -147,20 +148,21 @@
 			</td>
 			
 			<td>
+				
+				<div class="doctor-who-content">
+					
+					<!-- TemplateBeginEditable name="Content" -->
+					[General Content Goes Here]
+					<!-- TemplateEndEditable -->
+					
+				</div>
+				
+				
+			</td>
 			
-			<div class="doctor-who-content">
 			
-			<!-- TemplateBeginEditable name="Content" -->
-			[General Content Goes Here]
-			<!-- TemplateEndEditable -->
-			
-			</div>
-			
-			
-		</td>
-		
-		
 		</tr>
-	</table>
+		</table>
+</div>
 </body>
 </html>
